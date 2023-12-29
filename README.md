@@ -10,7 +10,7 @@ This demo app is themed around the 2026 World Cup. Users can select a location t
 
 "Purchased" tickets can also be viewed on a separate page, where there is an option to cancel them if desired.
 
-The demo app can be viewed [here](#)
+The demo app can be viewed [here](https://react-arena-five.vercel.app/)
 
 ## Installation
 After cloning this repository, run the following commands in the project root folder:

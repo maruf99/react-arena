@@ -29,7 +29,7 @@ export default function App({ Component, pageProps }: AppProps) {
 				<meta name="og:site_name" content="React Arena" />
 				<meta property="og:title" content="React Arena" />
 				<meta property="og:description" content="A demo seat booking interface in React." />
-				<meta property="og:image" content="https://worldcup.marufdev.me/thumbnail.png" />
+				<meta property="og:image" content="https://react-arena-five.vercel.app//thumbnail.png" />
 				<meta property="og:type" content="website" />
 			</Head>
 			<TicketProvider>
