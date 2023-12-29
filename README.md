@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![](/public/logo.svg)
 
-## Getting Started
+## Background
+React Arena is a demo ticket-booking interface web application. It was created for the purpose of improving my skills at using web technologies such as HTML, React, and the Next.js framework.
 
-First, run the development server:
+Through the creation of this project, I was able to learn a lot of skills related to web development, such as state management, creating responsive componenets and designs, and using optimization of rendering using React Hooks.
 
-```bash
+## Overview
+This demo app is themed around the 2026 World Cup. Users can select a location to purchase tickets from, where they will be prompted with an interface where they can select seats on a seatmap. The price of seats vary depending on their location. Users can select multiple seats at once if desired.
+
+"Purchased" tickets can also be viewed on a separate page, where there is an option to cancel them if desired.
+
+The demo app can be viewed [here](#)
+
+## Installation
+After cloning this repository, run the following commands in the project root folder:
+
+```sh
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This will start the development server. The app can be viewed on http://localhost:3000

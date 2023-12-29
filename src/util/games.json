@@ -1,0 +1,161 @@
+[
+	{
+		"name": "United States",
+		"games": [
+			{
+				"id": "east-rutherford",
+				"city": "East Rutherford",
+				"state": "New Jersey",
+				"venue": "MetLife Stadium",
+				"teams": ["United States", "Portugal"],
+				"price": 688,
+				"country": "United States"
+			},
+			{
+				"id": "dallas",
+				"city": "Dallas",
+				"state": "Texas",
+				"venue": "AT&T Stadium",
+				"teams": ["Australia", "Spain"],
+				"price": 766,
+				"country": "United States"
+			},
+			{
+				"id": "kansas-city",
+				"city": "Kansas City",
+				"state": "Kansas",
+				"venue": "Arrowhead Stadium",
+				"teams": ["Switzerland", "Belgium"],
+				"price": 543,
+				"country": "United States"
+			},
+			{
+				"id": "houston",
+				"city": "Houston",
+				"state": "Texas",
+				"venue": "NRG Stadium",
+				"teams": ["Poland", "Peru"],
+				"price": 752,
+				"country": "United States"
+			},
+			{
+				"id": "atlanta",
+				"city": "Atlanta",
+				"state": "Georgia",
+				"venue": "Mercedes-Benz Stadium",
+				"teams": ["England", "Croatia"],
+				"price": 676,
+				"country": "United States"
+			},
+			{
+				"id": "los-angeles",
+				"city": "Los Angeles",
+				"state": "California",
+				"venue": "SoFi Stadium",
+				"teams": ["Ukraine", "Morocco"],
+				"price": 546,
+				"country": "United States"
+			},
+			{
+				"id": "philadelphia",
+				"city": "Philadelphia",
+				"state": "Pennsylvania",
+				"venue": "Lincoln Financial Field",
+				"teams": ["Netherlands", "Denmark"],
+				"price": 679,
+				"country": "United States"
+			},
+			{
+				"id": "seattle",
+				"city": "Seattle",
+				"state": "Washington",
+				"venue": "Lumen Field",
+				"teams": ["Argentina", "Colombia"],
+				"price": 717,
+				"country": "United States"
+			},
+			{
+				"id": "san-francisco",
+				"city": "San Francisco",
+				"state": "California",
+				"venue": "Levi's Stadium",
+				"teams": ["Sweden", "Germany"],
+				"price": 514,
+				"country": "United States"
+			},
+			{
+				"id": "boston",
+				"city": "Boston",
+				"state": "Massachusetts",
+				"venue": "Gillette Stadium",
+				"teams": ["Brazil", "Costa Rica"],
+				"price": 678,
+				"country": "United States"
+			},
+			{
+				"id": "miami",
+				"city": "Miami",
+				"state": "Florida",
+				"venue": "Hard Rock Stadium",
+				"teams": ["Ecuador", "Jamaica"],
+				"price": 720,
+				"country": "United States"
+			}
+		]
+	},
+	{
+		"name": "Canada",
+		"games": [
+			{
+				"id": "toronto",
+				"city": "Toronto",
+				"state": "Ontario",
+				"venue": "BMO Field",
+				"teams": ["Canada", "France"],
+				"price": 704,
+				"country": "Canada"
+			},
+			{
+				"id": "vancouver",
+				"city": "Vancouver",
+				"state": "British Columbia",
+				"venue": "BC Place",
+				"teams": ["Egypt", "Iran"],
+				"price": 594,
+				"country": "Canada"
+			}
+		]
+	},
+	{
+		"name": "Mexico",
+		"games": [
+			{
+				"id": "mexico-city",
+				"city": "Mexico City",
+				"state": "",
+				"venue": "Estadio Azteca",
+				"teams": ["Mexico", "Chile"],
+				"price": 624,
+				"country": "Mexico"
+			},
+			{
+				"id": "monterrey",
+				"city": "Monterrey",
+				"state": "Nuevo León",
+				"venue": "Estadio BBVA",
+				"teams": ["Uruguay", "Iraq"],
+				"price": 777,
+				"country": "Mexico"
+			},
+			{
+				"id": "guadalajara",
+				"city": "Guadalajara",
+				"state": "Jalisco",
+				"venue": "Estadio Akron",
+				"teams": ["Senegal", "Japan"],
+				"price": 687,
+				"country": "Mexico"
+			}
+		]
+	}
+]
