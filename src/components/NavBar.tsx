@@ -56,7 +56,7 @@ export default function NavBar() {
 
 				<Flex alignItems="center">
 					<NextLink href="https://github.com/maruf99/react-arena" passHref legacyBehavior>
-						<Button as="a" variant="solid" colorScheme="gray" size="md" mr={4} leftIcon={<FaGithub />}>
+						<Button as="a" target="_blank" rel="noopener noreferrer" variant="solid" colorScheme="gray" size="md" mr={4} leftIcon={<FaGithub />}>
 							View on GitHub&nbsp;
 							<ExternalLinkIcon />
 						</Button>
