@@ -21,3 +21,9 @@ npm run dev
 ```
 
 This will start the development server. The app can be viewed on http://localhost:3000
+
+## Screenshots
+![](/screenshots/image_1.png)
+![](/screenshots/image_2.png)
+![](/screenshots/image_3.png)
+![](/screenshots/image_4.png)
